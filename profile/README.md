@@ -2,9 +2,9 @@
 
 Welcome to Kent's Raspberry Pi Organization
 
-🍓 This is an organization hosting all the programs that are soon-to-be running or currently running on Kent's Raspberry Pi
-🫐 For safety reasons, there is no outside contribution permitted
-🍓 Feel free to check out any of the links above to learn more about Kent!
+- 🍓 This is an organization hosting all the programs that are soon-to-be running or currently running on Kent's Raspberry Pi
+- 🫐 For safety reasons, there is no outside contribution permitted
+- 🍓 Feel free to check out any of the links above to learn more about Kent!
 <!--
 
 **Here are some ideas to get you started:**
